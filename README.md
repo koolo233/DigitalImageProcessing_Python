@@ -14,7 +14,7 @@ Implementation of some digital image processing algorithms in Python. (principle
 * [Histogram Processing](https://github.com/koolo233/DigitalImageProcessing_Python/blob/main/Histogram_Processing.ipynb)
 - [x] [Histogram Equalization](https://github.com/koolo233/DigitalImageProcessing_Python/blob/main/Histogram_Processing.ipynb)
 - [x] [Histogram Matching(Specification)](https://github.com/koolo233/DigitalImageProcessing_Python/blob/main/Histogram_Processing.ipynb)
-- [ ] Exact Histogram Matching(Specification)
+- [x] [Exact Histogram Matching(Specification)](https://github.com/koolo233/DigitalImageProcessing_Python/blob/main/Histogram_Processing.ipynb)
 - [ ] Local Histogram Processing
 
 ### **Result**
@@ -51,6 +51,6 @@ Implementation of some digital image processing algorithms in Python. (principle
 ![](https://raw.githubusercontent.com/koolo233/DigitalImageProcessing_Python/main/repository%20images/Histogram_Matching_Specification.png)
 
 ### [Exact Histogram Matching(Specification)](https://github.com/koolo233/DigitalImageProcessing_Python/blob/main/Histogram_Processing.ipynb)
-
+![](https://raw.githubusercontent.com/koolo233/DigitalImageProcessing_Python/main/repository%20images/exact_histogram_matching.png)
 
 ### [Local Histogram Processing](https://github.com/koolo233/DigitalImageProcessing_Python/blob/main/Histogram_Processing.ipynb)
