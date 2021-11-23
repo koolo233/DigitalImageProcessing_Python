@@ -17,6 +17,19 @@ Implementation of some digital image processing algorithms in Python. (principle
 - [x] [Exact Histogram Matching(Specification)](https://github.com/koolo233/DigitalImageProcessing_Python/blob/main/Histogram_Processing.ipynb)
 - [ ] Local Histogram Processing
 
+* Spatial Filtering
+- [ ] Linear Spatial Filtering
+- [ ] Separable Filter Kernels
+- [ ] Box Filter Kernels
+- [ ] Lowpass Gaussian Filter Kernels
+- [ ] Order-Statistic(Nonlinear Filters)
+- [ ] Gradient
+- [ ] Laplacian
+- [ ] Unsharp Masking and Highboost Filtering
+- [ ] Fuzzy Techniques
+* Filtering in the Frequency Domain
+
+
 ### **Result**
 
 ## [Some Basic Intensity Transformation Functions](https://github.com/koolo233/DigitalImageProcessing_Python/blob/main/Basic_Intensity_Transformation_Functions.ipynb)
